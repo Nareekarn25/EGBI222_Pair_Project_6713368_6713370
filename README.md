@@ -24,10 +24,10 @@ You can run the notebook directly on Google Colab:
 
 2. **Update the File Path**
    - In the notebook, set the correct path to your dataset:
-     '''python
+     ```python
      file_paths = "your-path-to-dataset"
      df = pd.read_csv(file_paths)
-     '''
+     ```
      
 
 
@@ -35,11 +35,11 @@ You can run the notebook directly on Google Colab:
    - The notebook will guide you through mounting Google Drive, importing libraries, loading data, and performing EDA.
 
 
-
+     
 
 ## Repository Structure
 
-- 'EGBI222_Project.ipynb' — Main Colab notebook for EDA and analysis
+- ` EGBI222_Project.ipynb`  — Main Colab notebook for EDA and analysis
 
 ## Requirements
 
