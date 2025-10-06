@@ -14,12 +14,12 @@ The notebook mainly includes:
 
 You can run the notebook directly on Google Colab:
 
-[![Open in Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tr1mE7DNLKKROcIXu3vYRd2VNj13iTQB?usp=sharing](https://colab.research.google.com/drive/1f_rf6wtJlX4wxIMPJMhH-so75NPBNdZA))
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1f_rf6wtJlX4wxIMPJMhH-so75NPBNdZA)
 
 ### Steps
 
 1. **Download the Dataset**
-   - Titanic Dataset: [Kaggle Notebook] (https://www.kaggle.com/datasets/vinicius150987/titanic3) 
+   - Titanic Dataset: [Kaggle Notebook](https://www.kaggle.com/datasets/vinicius150987/titanic3) 
    - Save the dataset (CSV file) to your Google Drive
 
 2. **Update the File Path**
