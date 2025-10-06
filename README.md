@@ -14,7 +14,7 @@ The notebook mainly includes:
 
 You can run the notebook directly on Google Colab:
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1f_rf6wtJlX4wxIMPJMhH-so75NPBNdZA)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1GoJTqQ0jZsZQLkJGq_Wjwn_Flr7YLcR6?usp=sharing#scrollTo=aFLIacuoQP6c)
 
 ### Steps
 
